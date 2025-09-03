@@ -1,0 +1,918 @@
+{
+    "angry": [
+        {
+            "Name": "Tôi Xin Biết Ơn",
+            "Singer": "Trang",
+            "Music Path": "angry_trang_toixinbieton.mp3",
+            "Music Image": "trang_toixinbieton.png"
+        },
+        {
+            "Name": "Sự Nghiệp Chướng",
+            "Singer": "Pháo",
+            "Music Path": "angry_phao_sunghiepchuong.mp3",
+            "Music Image": "phao_sunghiepchuong.png"
+        },
+        {
+            "Name": "Tập Yêu",
+            "Singer": "Trang",
+            "Music Path": "angry_trang_tapyeu.mp3",
+            "Music Image": "trang_tapyeu.png"
+        },
+        {
+            "Name": "Sẽ Không Ai Bị Bỏ Lại Phía Sau ",
+            "Singer": "Sofia, Châu Đăng Khoa",
+            "Music Path": "angry_sofia_sekhongaibibolaiphiasau.mp3",
+            "Music Image": "sofia_sekhongaibibolaiphiasau.png"
+        },
+        {
+            "Name": "Người Gieo Mầm Xanh",
+            "Singer": "Hứa Kim Tuyền, Hoàng Dũng",
+            "Music Path": "angry_huakimtuyen_nguoigieomamxanh.mp3",
+            "Music Image": "huakimtuyen_nguoigieomamxanh.png"
+        },
+        {
+            "Name": "Nếu Một Mai Tôi Bay Lên Trời",
+            "Singer": "Hứa Kim Tuyền, Trúc Nhân",
+            "Music Path": "angry_huakimtuyen_neumotmaitoibaylentroi.mp3",
+            "Music Image": "huakimtuyen_neumotmaitoibaylentroi.png"
+        },
+        {
+            "Name": "Lớn Rồi Còn Khóc Nhè",
+            "Singer": "Trúc Nhân",
+            "Music Path": "angry_trucnhan_lonroiconkhocnhe.mp3",
+            "Music Image": "trucnhan_lonroiconkhocnhe.png"
+        },
+        {
+            "Name": "Anh Đã Làm Gì Đâu ",
+            "Singer": "Nhật Hoàng, Thùy Chi",
+            "Music Path": "angry_nhathoang_anhdalamgidau.mp3",
+            "Music Image": "nhathoang_anhdalamgidau.png"
+        },
+        {
+            "Name": "Một Ngày Tôi Quên Hết",
+            "Singer": "Hứa Kim Tuyền, Cẩm Vân, Cece Trương",
+            "Music Path": "angry_huakimtuyen_motngaytoiquenhet.mp3",
+            "Music Image": "huakimtuyen_motngaytoiquenhet.png"
+        },
+        {
+            "Name": "Hành Trình Của Lá",
+            "Singer": "Pialinh, Lâm Bảo Ngọc, Minh Cà Ri",
+            "Music Path": "angry_pialinh_hanhtrinhcuala.mp3",
+            "Music Image": "pialinh_hanhtrinhcuala.png"
+        },
+        {
+            "Name": "Rằng Ta Có Bao Lâu Để Yêu?",
+            "Singer": "Tú Phương, Minh Cà Ri",
+            "Music Path": "angry_tuphuong_rangtacobaolaudeyeu.mp3",
+            "Music Image": "tuphuong_rangtacobaolaudeyeu.png"
+        },
+        {
+            "Name": "Trăng Sáng Soi",
+            "Singer": "Nguyệt Hạ, Minh Cà Ri",
+            "Music Path": "angry_nguyetha_trangsangsoi.mp3",
+            "Music Image": "nguyetha_trangsangsoi.png"
+        },
+        {
+            "Name": "Đến Giờ Cơm",
+            "Singer": "Ái Phương",
+            "Music Path": "angry_aiphuong_dengiocom.mp3",
+            "Music Image": "aiphuong_dengiocom.png"
+        },
+        {
+            "Name": "Chuyện Nhà Bé Thôi, Con Đừng Về",
+            "Singer": "Kai Dinh, Min",
+            "Music Path": "angry_koidinh_chuyennhabethoicondungve.mp3",
+            "Music Image": "koidinh_chuyennhabethoicondungve.png"
+        },
+        {
+            "Name": "Đông Tây Nam Bắc",
+            "Singer": "Ái Phương",
+            "Music Path": "angry_aiphuong_dongtaynambac.mp3",
+            "Music Image": "aiphuong_dongtaynambac.png"
+        },
+        {
+            "Name": "Chờ Đợi Có Đáng Sợ",
+            "Singer": "Andiez",
+            "Music Path": "angry_andiez_chodoicodangso.mp3",
+            "Music Image": "andiez_chodoicodangso.png"
+        },
+        {
+            "Name": "Vị Nhà",
+            "Singer": "Đen",
+            "Music Path": "angry_den_vinha.mp3",
+            "Music Image": "den_vinha.png"
+        },
+        {
+            "Name": "Ditto",
+            "Singer": "Newjeans",
+            "Music Path": "angry_newjeans_ditto.mp3",
+            "Music Image": "newjeans_ditto.png"
+        },
+        {
+            "Name": "About You",
+            "Singer": "The 1975",
+            "Music Path": "angry_the1975_aboutyou.mp3",
+            "Music Image": "the1975_aboutyou.png"
+        },
+        {
+            "Name": "Tựa Đêm Nay",
+            "Singer": "The Cassette",
+            "Music Path": "angry_thecassette_tuademnay.mp3",
+            "Music Image": "thecassette_tuademnay.png"
+        },
+        {
+            "Name": "Mùa Xuân",
+            "Singer": "Trang",
+            "Music Path": "angry_trang_muaxuan.mp3",
+            "Music Image": "trang_muaxuan.png"
+        },
+        {
+            "Name": "Nguyên Vẹn",
+            "Singer": "Tùng",
+            "Music Path": "angry_tung_nguyenven.mp3",
+            "Music Image": "tung_nguyenven.png"
+        },
+        {
+            "Name": "Tự Do",
+            "Singer": "Tùng",
+            "Music Path": "angry_tung_tudo.mp3",
+            "Music Image": "tung_tudo.png"
+        },
+        {
+            "Name": "Đừng Đi",
+            "Singer": "The Cassette",
+            "Music Path": "angry_thecassette_dungdi.mp3",
+            "Music Image": "thecassette_dungdi.png"
+        },
+        {
+            "Name": "Cảm Ơn Và Xin Lỗi",
+            "Singer": "Chillies",
+            "Music Path": "angry_chillies_camonvaxinloi.mp3",
+            "Music Image": "chillies_camonvaxinloi.png"
+        },
+        {
+            "Name": "Không Một Bài Hát Nào Có Thể Diễn Tả Cảm Xúc Của Em Lúc Này.",
+            "Singer": "Hoàng Thuỳ Linh, Thanh Bùi",
+            "Music Path": "angry_hoangthuylinh_khongmotbaihatnaocothedientacamtuccuaemlucnay.mp3",
+            "Music Image": "hoangthuylinh_khongmotbaihatnaocothedientacamtuccuaemlucnay.png"
+        },
+        {
+            "Name": "Lượm",
+            "Singer": "Phương Mỹ Chi, Dtap",
+            "Music Path": "angry_phuongmychi_luom.mp3",
+            "Music Image": "phuongmychi_luom.png"
+        },
+        {
+            "Name": "Vườn Hoa Con Cá",
+            "Singer": "O.Lew, Ngắn",
+            "Music Path": "angry_olew_vuonhoaconca.mp3",
+            "Music Image": "olew_vuonhoaconca.png"
+        },
+        {
+            "Name": "Tâm",
+            "Singer": "Mer",
+            "Music Path": "angry_mer_tam.mp3",
+            "Music Image": "mer_tam.png"
+        },
+        {
+            "Name": "Điều Cha Chưa Nói",
+            "Singer": "Ali Hoàng Dương",
+            "Music Path": "angry_alihoangduong_dieuchachuanoi.mp3",
+            "Music Image": "alihoangduong_dieuchachuanoi.png"
+        },
+        {
+            "Name": "Cuộc Gọi Về Nhà",
+            "Singer": "Orange",
+            "Music Path": "angry_orange_cuocgoivenha.mp3",
+            "Music Image": "orange_cuocgoivenha.png"
+        }
+    ],
+    "depressed": [
+        {
+            "Name": "Reeves ",
+            "Singer": "Kng, Manbo, Hieuthuhai",
+            "Music Path": "depressed_kng_reeves.mp3",
+            "Music Image": "kng_reeves.png"
+        },
+        {
+            "Name": "Legends Never Die ",
+            "Singer": "Against The Current",
+            "Music Path": "depressed_againstthecurrent_legendsneverdie.mp3",
+            "Music Image": "againstthecurrent_legendsneverdie.png"
+        },
+        {
+            "Name": "Wish",
+            "Singer": "Changmo",
+            "Music Path": "depressed_changmo_wish.mp3",
+            "Music Image": "changmo_wish.png"
+        },
+        {
+            "Name": "Unstoppable",
+            "Singer": "Sia",
+            "Music Path": "depressed_sia_unstoppable.mp3",
+            "Music Image": "sia_unstoppable.png"
+        },
+        {
+            "Name": "Bầu Trời Mới ",
+            "Singer": "Da Lab, Minh Tốc, Lam",
+            "Music Path": "depressed_dalab_bautroimoi.mp3",
+            "Music Image": "dalab_bautroimoi.png"
+        },
+        {
+            "Name": "Khi Bóng Lá Rơi",
+            "Singer": "Maple Noãn Phong",
+            "Music Path": "depressed_maplenoanphong_khibonglaroi.mp3",
+            "Music Image": "maplenoanphong_khibonglaroi.png"
+        },
+        {
+            "Name": "Thiếu Niên Hoa Hồng ",
+            "Singer": "Vương Tĩnh Văn",
+            "Music Path": "depressed_vuongtinhvan_thieunienhoahong.mp3",
+            "Music Image": "vuongtinhvan_thieunienhoahong.png"
+        },
+        {
+            "Name": "Cậu Xem, Trời Tối Rồi",
+            "Singer": "Khu Vườn Ma Quỷ",
+            "Music Path": "depressed_khuvuonmaquy_cauxemtroitoiroi.mp3",
+            "Music Image": "khuvuonmaquy_cauxemtroitoiroi.png"
+        },
+        {
+            "Name": "Call Of Silence",
+            "Singer": "Hiroyuki Sawano",
+            "Music Path": "depressed_hiroyukisawano_callofsilence.mp3",
+            "Music Image": "hiroyukisawano_callofsilence.png"
+        },
+        {
+            "Name": "Dưới Ánh Hào Quang",
+            "Singer": "Ngân Hà, Rev, Nhật Nguyễn",
+            "Music Path": "depressed_nganha_duoianhhaoquang.mp3",
+            "Music Image": "nganha_duoianhhaoquang.png"
+        },
+        {
+            "Name": "Con Đường Bình Phàm",
+            "Singer": "Phác Thụ",
+            "Music Path": "depressed_phacthu_conduongbinhpham.mp3",
+            "Music Image": "phacthu_conduongbinhpham.png"
+        },
+        {
+            "Name": "Nothing Stopping Me",
+            "Singer": "Vicetone, Kat Nestel",
+            "Music Path": "depressed_vicetone_nothingstoppingme.mp3",
+            "Music Image": "vicetone_nothingstoppingme.png"
+        },
+        {
+            "Name": "Fake Love",
+            "Singer": "Bts",
+            "Music Path": "depressed_bts_fakelove.mp3",
+            "Music Image": "bts_fakelove.png"
+        },
+        {
+            "Name": "Window Shopper",
+            "Singer": "Hurrykng",
+            "Music Path": "depressed_hurrykng_windowshopper.mp3",
+            "Music Image": "hurrykng_windowshopper.png"
+        },
+        {
+            "Name": "Trở Về",
+            "Singer": "Wxrdie, Justatee",
+            "Music Path": "depressed_wxrdie_trove.mp3",
+            "Music Image": "wxrdie_trove.png"
+        },
+        {
+            "Name": "Khát Vọng Tuổi Trẻ",
+            "Singer": "Tùng Dương Cover, Japandee Remix",
+            "Music Path": "depressed_tungduong_khatvongtuoitre.mp3",
+            "Music Image": "tungduong_khatvongtuoitre.png"
+        },
+        {
+            "Name": "Nổi Gió Rồi",
+            "Singer": "Châu Thâm",
+            "Music Path": "depressed_chautham_noigioroi.mp3",
+            "Music Image": "chautham_noigioroi.png"
+        },
+        {
+            "Name": "Một Đường Nở Hoa",
+            "Singer": "Ôn Dịch Tâm",
+            "Music Path": "depressed_ondichtam_motduongnohoa.mp3",
+            "Music Image": "ondichtam_motduongnohoa.png"
+        },
+        {
+            "Name": "Super Shy",
+            "Singer": "Newjeans",
+            "Music Path": "depressed_newjeans_supershy.mp3",
+            "Music Image": "newjeans_supershy.png"
+        },
+        {
+            "Name": "Vì Tôi Còn Sống",
+            "Singer": "Tiên Tiên",
+            "Music Path": "depressed_tientien_vitoiconsong.mp3",
+            "Music Image": "tientien_vitoiconsong.png"
+        },
+        {
+            "Name": "Gác Lại Âu Lo",
+            "Singer": "Da Lab, Miu Lê",
+            "Music Path": "depressed_dalab_gaclaiaulo.mp3",
+            "Music Image": "dalab_gaclaiaulo.png"
+        },
+        {
+            "Name": "Đại Lộ Mặt Trời",
+            "Singer": "Chillies",
+            "Music Path": "depressed_chillies_dailomattroi.mp3",
+            "Music Image": "chillies_dailomattroi.png"
+        },
+        {
+            "Name": "Titanium",
+            "Singer": "David Guetta",
+            "Music Path": "depressed_davidguetta_titanium.mp3",
+            "Music Image": "davidguetta_titanium.png"
+        },
+        {
+            "Name": "Nắng Của Chúng Mình",
+            "Singer": "Huỳnh Nghiên, Hũ Ya Ua",
+            "Music Path": "depressed_huynhnghien_nangcuachungminh.mp3",
+            "Music Image": "huynhnghien_nangcuachungminh.png"
+        },
+        {
+            "Name": "Hall Of Fame",
+            "Singer": "The Script",
+            "Music Path": "depressed_thescript_halloffame.mp3",
+            "Music Image": "thescript_halloffame.png"
+        },
+        {
+            "Name": "Stronger",
+            "Singer": "Kelly Clarkson",
+            "Music Path": "depressed_kellyclarkson_stronger.mp3",
+            "Music Image": "kellyclarkson_stronger.png"
+        },
+        {
+            "Name": "Superheroes",
+            "Singer": "The Script",
+            "Music Path": "depressed_thescript_superheroes.mp3",
+            "Music Image": "thescript_superheroes.png"
+        },
+        {
+            "Name": "Một Ngày Chẳng Nắng",
+            "Singer": "Pháo Northside, Thobaymau",
+            "Music Path": "depressed_phaonorthside_motngaychangnang.mp3",
+            "Music Image": "phaonorthside_motngaychangnang.png"
+        },
+        {
+            "Name": "Đi Giữa Trời Rực Rỡ",
+            "Singer": "Ngô Lan Hương",
+            "Music Path": "depressed_ngolanhuong_digiuatroirucro.mp3",
+            "Music Image": "ngolanhuong_digiuatroirucro.png"
+        },
+        {
+            "Name": "Dance Monkey",
+            "Singer": "Tones And I",
+            "Music Path": "depressed_tonesandi_dancemonkey.mp3",
+            "Music Image": "tonesandi_dancemonkey.png"
+        }
+    ],
+    "happy": [
+        {
+            "Name": "Dinosaur",
+            "Singer": "Akmu",
+            "Music Path": "happy_akmu_dinosaur.mp3",
+            "Music Image": "akmu_dinosaur.png"
+        },
+        {
+            "Name": "Give Love",
+            "Singer": "Akmu",
+            "Music Path": "happy_akmu_givelove.mp3",
+            "Music Image": "akmu_givelove.png"
+        },
+        {
+            "Name": "Love Lee",
+            "Singer": "Akmu",
+            "Music Path": "happy_akmu_lovelee.mp3",
+            "Music Image": "akmu_lovelee.png"
+        },
+        {
+            "Name": "Mộng Yu  ",
+            "Singer": "Amee X Mck",
+            "Music Path": "happy_amee_mongyu.mp3",
+            "Music Image": "amee_mongyu.png"
+        },
+        {
+            "Name": "Electric Love",
+            "Singer": "Borns",
+            "Music Path": "happy_borns_electriclove.mp3",
+            "Music Image": "borns_electriclove.png"
+        },
+        {
+            "Name": "Just The Way You Are ",
+            "Singer": "Bruno Mars",
+            "Music Path": "happy_brunomars_justthewayyouare.mp3",
+            "Music Image": "brunomars_justthewayyouare.png"
+        },
+        {
+            "Name": "That’S What I Like",
+            "Singer": "Bruno Mars",
+            "Music Path": "happy_brunomars_thatswhatilike.mp3",
+            "Music Image": "brunomars_thatswhatilike.png"
+        },
+        {
+            "Name": "The Lazy Song",
+            "Singer": "Bruno Mars",
+            "Music Path": "happy_brunomars_thelazysong.mp3",
+            "Music Image": "brunomars_thelazysong.png"
+        },
+        {
+            "Name": "I Really Like You",
+            "Singer": "Carly Rae Jepsen",
+            "Music Path": "happy_carleyraejepsen_ireallylikeyou.mp3",
+            "Music Image": "carleyraejepsen_ireallylikeyou.png"
+        },
+        {
+            "Name": "Rather Be ",
+            "Singer": "Clean Bandit, Jess Glynne",
+            "Music Path": "happy_cleanbandit_ratherbe.mp3",
+            "Music Image": "cleanbandit_ratherbe.png"
+        },
+        {
+            "Name": "La Vie En Rose",
+            "Singer": "Daniela Andrade",
+            "Music Path": "happy_danielaandrade_lavieenrose.mp3",
+            "Music Image": "danielaandrade_lavieenrose.png"
+        },
+        {
+            "Name": "Taki Taki ",
+            "Singer": "Dj Snake, Selena Gomez, Ozuna, Cardi B",
+            "Music Path": "happy_djsnake_takitaki.mp3",
+            "Music Image": "djsnake_takitaki.png"
+        },
+        {
+            "Name": "As It Was ",
+            "Singer": "Harry Styles",
+            "Music Path": "happy_harrystyles_asitwas.mp3",
+            "Music Image": "harrystyles_asitwas.png"
+        },
+        {
+            "Name": "Small Girl ",
+            "Singer": "Leeyoungji, Doh Kyung Soo",
+            "Music Path": "happy_leeyoungji_smallgirl.mp3",
+            "Music Image": "leeyoungji_smallgirl.png"
+        },
+        {
+            "Name": "The Show",
+            "Singer": "Lenka",
+            "Music Path": "happy_lenka_theshow.mp3",
+            "Music Image": "lenka_theshow.png"
+        },
+        {
+            "Name": "Reality ",
+            "Singer": "Lost Frequencies, Janieck Devy",
+            "Music Path": "happy_lostfrequencies_reality.mp3",
+            "Music Image": "lostfrequencies_reality.png"
+        },
+        {
+            "Name": "Cheerleader ",
+            "Singer": "Omi, Felix Jaehn",
+            "Music Path": "happy_omi_cheerleader.mp3",
+            "Music Image": "omi_cheerleader.png"
+        },
+        {
+            "Name": "What Makes You Beautiful ",
+            "Singer": "One Direction",
+            "Music Path": "happy_onedirection_whatmakesyoubeautiful.mp3",
+            "Music Image": "onedirection_whatmakesyoubeautiful.png"
+        },
+        {
+            "Name": "Happy",
+            "Singer": "Pharrell Williams",
+            "Music Path": "happy_pharrellwilliams_happy.mp3",
+            "Music Image": "pharrellwilliams_happy.png"
+        },
+        {
+            "Name": "Mặt Trời Của Em",
+            "Singer": "Phương Ly, Justatee",
+            "Music Path": "happy_phuongly_mattroicuaem.mp3",
+            "Music Image": "phuongly_mattroicuaem.png"
+        },
+        {
+            "Name": "Make You Mine",
+            "Singer": "Public",
+            "Music Path": "happy_public_makeyoumine.mp3",
+            "Music Image": "public_makeyoumine.png"
+        },
+        {
+            "Name": "Yêu 5 ",
+            "Singer": "Rhymastic",
+            "Music Path": "happy_rhymastic_yeu5.mp3",
+            "Music Image": "rhymastic_yeu5.png"
+        },
+        {
+            "Name": "Apt",
+            "Singer": "Rosé, Bruno Mars",
+            "Music Path": "happy_rose_apt.mp3",
+            "Music Image": "rose_apt.png"
+        },
+        {
+            "Name": "Please Please Please ",
+            "Singer": "Sabrina Carpenter",
+            "Music Path": "happy_saprinacarpenter_pleasepleaseplease.mp3",
+            "Music Image": "saprinacarpenter_pleasepleaseplease.png"
+        },
+        {
+            "Name": "Can'T Remember To Forget You ",
+            "Singer": "Shakira, Rihanna",
+            "Music Path": "happy_shakira_cantremembertoforgetyou.mp3",
+            "Music Image": "shakira_cantremembertoforgetyou.png"
+        },
+        {
+            "Name": "Cheap Thrills",
+            "Singer": "Sia, Sean Paul",
+            "Music Path": "happy_sia_cheapthrills.mp3",
+            "Music Image": "sia_cheapthrills.png"
+        },
+        {
+            "Name": "Until I Found You ",
+            "Singer": "Stephen Sanchez",
+            "Music Path": "happy_stephensanchez_untilifoundyou.mp3",
+            "Music Image": "stephensanchez_untilifoundyou.png"
+        },
+        {
+            "Name": "Style",
+            "Singer": "Taylor Swift",
+            "Music Path": "happy_taylorswift_style.mp3",
+            "Music Image": "taylorswift_style.png"
+        },
+        {
+            "Name": "Something Just Like This ",
+            "Singer": "The Chainsmokers, Coldplay",
+            "Music Path": "happy_thechainsmokers_somethingjustlikethis.mp3",
+            "Music Image": "thechainsmokers_somethingjustlikethis.png"
+        },
+        {
+            "Name": "Vẽ",
+            "Singer": "Trúc Nhân",
+            "Music Path": "happy_trucnhan_ve.mp3",
+            "Music Image": "trucnhan_ve.png"
+        }
+    ],
+    "normal": [
+        {
+            "Name": "Làn Ưu Tiên",
+            "Singer": "Mopius",
+            "Music Path": "normal_mopius_lanuutien.mp3",
+            "Music Image": "mopius_lanuutien.png"
+        },
+        {
+            "Name": "Đừng Làm Trái Tim Anh Đau",
+            "Singer": "Sơn Tùng MTP",
+            "Music Path": "normal_sontungm-tp_dunglamtraitimanhdau.mp3",
+            "Music Image": "sontungm-tp_dunglamtraitimanhdau.png"
+        },
+        {
+            "Name": "Like That",
+            "Singer": "Charlie Puth",
+            "Music Path": "normal_charlieputh_likethat.mp3",
+            "Music Image": "charlieputh_likethat.png"
+        },
+        {
+            "Name": "Đi Tìm Tình Yêu",
+            "Singer": "Mono",
+            "Music Path": "normal_mono_ditimtinhyeu.mp3",
+            "Music Image": "mono_ditimtinhyeu.png"
+        },
+        {
+            "Name": "Đâu Ai Dám Hứa",
+            "Singer": "Czee",
+            "Music Path": "normal_czee_dauaidamhua.mp3",
+            "Music Image": "czee_dauaidamhua.png"
+        },
+        {
+            "Name": "Mộng Yu",
+            "Singer": "Amee, Mck",
+            "Music Path": "normal_amee_mongyu.mp3",
+            "Music Image": "amee_mongyu.png"
+        },
+        {
+            "Name": "Seenderella",
+            "Singer": "Chi Xê",
+            "Music Path": "normal_chixe_seenderella.mp3",
+            "Music Image": "chixe_seenderella.png"
+        },
+        {
+            "Name": "November",
+            "Singer": "The Cassette",
+            "Music Path": "normal_thecassette_november.mp3",
+            "Music Image": "thecassette_november.png"
+        },
+        {
+            "Name": "Trước Khi Em Tồn Tại",
+            "Singer": "Thắng",
+            "Music Path": "normal_thang_truockhiemtontai.mp3",
+            "Music Image": "thang_truockhiemtontai.png"
+        },
+        {
+            "Name": "Cho Tôi Lang Thang",
+            "Singer": "Ngọt, Đen",
+            "Music Path": "normal_ngot_chotoilangthang.mp3",
+            "Music Image": "ngot_chotoilangthang.png"
+        },
+        {
+            "Name": "Nấu Ăn Cho Em",
+            "Singer": "Đen, Pia Linh",
+            "Music Path": "normal_den_nauanchoem.mp3",
+            "Music Image": "den_nauanchoem.png"
+        },
+        {
+            "Name": "1000 Ánh Mắt",
+            "Singer": "Shiki, Obito",
+            "Music Path": "normal_shiki_1000anhmat.mp3",
+            "Music Image": "shiki_1000anhmat.png"
+        },
+        {
+            "Name": "Tell The Kids I Love Them",
+            "Singer": "Shiki, Obito",
+            "Music Path": "normal_obito_tellthekidsilovethem.mp3",
+            "Music Image": "obito_tellthekidsilovethem.png"
+        },
+        {
+            "Name": "Vì Anh Đâu Có Biết",
+            "Singer": "Madihu, Vũ.",
+            "Music Path": "normal_madihu_vianhdaucobiet.mp3",
+            "Music Image": "madihu_vianhdaucobiet.png"
+        },
+        {
+            "Name": "Em Dạo Này",
+            "Singer": "Ngọt",
+            "Music Path": "normal_ngot_emdaonay.mp3",
+            "Music Image": "ngot_emdaonay.png"
+        },
+        {
+            "Name": "Love, Money, Fame",
+            "Singer": "Seventeen, Dj Khaled",
+            "Music Path": "normal_seventeen_love,money,fame.mp3",
+            "Music Image": "seventeen_love,money,fame.png"
+        },
+        {
+            "Name": "Darl+Ing",
+            "Singer": "Seventeen",
+            "Music Path": "normal_seventeen_darling.mp3",
+            "Music Image": "seventeen_darling.png"
+        },
+        {
+            "Name": "Matsuri",
+            "Singer": "Fujii Kaze",
+            "Music Path": "normal_fujiikaze_matsuri.mp3",
+            "Music Image": "fujiikaze_matsuri.png"
+        },
+        {
+            "Name": "Time Of Our Life",
+            "Singer": "Day6",
+            "Music Path": "normal_day6_timeofourlife.mp3",
+            "Music Image": "day6_timeofourlife.png"
+        },
+        {
+            "Name": "Van Gogh",
+            "Singer": "Dept, Ashley Alisha",
+            "Music Path": "normal_dept_vangogh.mp3",
+            "Music Image": "dept_vangogh.png"
+        },
+        {
+            "Name": "Đâu Cần Một Bài Ca Tình Yêu",
+            "Singer": "Tiên Tiên, Trang Trang",
+            "Music Path": "normal_tientien_daucanmotbaicatinhyeu.mp3",
+            "Music Image": "tientien_daucanmotbaicatinhyeu.png"
+        },
+        {
+            "Name": "Better Things",
+            "Singer": "Aespa",
+            "Music Path": "normal_aespa_betterthings.mp3",
+            "Music Image": "aepsa_betterthings.png"
+        },
+        {
+            "Name": "Symphony",
+            "Singer": "Clean Bandit,  Zara Larsson",
+            "Music Path": "normal_cleanbandit_symphony.mp3",
+            "Music Image": "cleanbandit_symphony.png"
+        },
+        {
+            "Name": "Night Dancer",
+            "Singer": "Imase",
+            "Music Path": "normal_imase_nightdancer.mp3",
+            "Music Image": "imase_nightdancer.png"
+        },
+        {
+            "Name": "Love Scenario",
+            "Singer": "Ikon",
+            "Music Path": "normal_ikon_lovescenario.mp3",
+            "Music Image": "ikon_lovescenario.png"
+        },
+        {
+            "Name": "Golden Hour",
+            "Singer": "Jvke",
+            "Music Path": "normal_jvke_goldenhour.mp3",
+            "Music Image": "jvke_goldenhour.png"
+        },
+        {
+            "Name": "Magnetic",
+            "Singer": "Illit",
+            "Music Path": "normal_illit_magnetic.mp3",
+            "Music Image": "illit_magnetic.png"
+        },
+        {
+            "Name": "Say Yes",
+            "Singer": "Loco, Punch",
+            "Music Path": "normal_loco_sayyes.mp3",
+            "Music Image": "loco_sayyes.png"
+        },
+        {
+            "Name": "Tràn Bộ Nhớ",
+            "Singer": "Dương Domic",
+            "Music Path": "normal_duongdomic_tranbonho.mp3",
+            "Music Image": "duongdomic_tranbonho.png"
+        },
+        {
+            "Name": "Soạn",
+            "Singer": "The Cassette",
+            "Music Path": "normal_thecassette_soan.mp3",
+            "Music Image": "thecassette_soan.png"
+        }
+    ],
+    "sad": [
+        {
+            "Name": "Một Bước Yêu Vạn Dặm Đau",
+            "Singer": "Mr.Siro",
+            "Music Path": "sad_mr.siro_motbuocyeuvandamdau.mp3",
+            "Music Image": "mr.siro_motbuocyeuvandamdau.png"
+        },
+        {
+            "Name": "Có Ai Thương Em Như Anh",
+            "Singer": "Tóc Tiên",
+            "Music Path": "sad_toctien_coaithuongemnhuanh.mp3",
+            "Music Image": "toctien_coaithuongemnhuanh.png"
+        },
+        {
+            "Name": "Em Không Là Duy Nhất",
+            "Singer": "Tóc Tiên",
+            "Music Path": "sad_toctien_emkhongladuynhat.mp3",
+            "Music Image": "toctien_emkhongladuynhat.png"
+        },
+        {
+            "Name": "Không Thể Say",
+            "Singer": "Hieuthuhai",
+            "Music Path": "sad_hieuthuhai_khongthesay.mp3",
+            "Music Image": "hieuthuhai_khongthesay.png"
+        },
+        {
+            "Name": "Day Dứt Nỗi Đau",
+            "Singer": "Mr.Siro",
+            "Music Path": "sad_mr.siro_daydutnoidau.mp3",
+            "Music Image": "mr.siro_daydutnoidau.png"
+        },
+        {
+            "Name": "A Thousand Years",
+            "Singer": "Pop Mage",
+            "Music Path": "sad_popmage_athousandyears.mp3",
+            "Music Image": "popmage_athousandyears.png"
+        },
+        {
+            "Name": "I Love You 3000",
+            "Singer": "Stephanie Poetri",
+            "Music Path": "sad_stephaniepoetri_iloveyou3000.mp3",
+            "Music Image": "stephaniepoetri_iloveyou3000.png"
+        },
+        {
+            "Name": "Anh Ơi Anh Ở Lại",
+            "Singer": "Chipu, Đạt G",
+            "Music Path": "sad_chipu_anhoianholai.mp3",
+            "Music Image": "chipu_anhoianholai.png"
+        },
+        {
+            "Name": "Back To December",
+            "Singer": "Taylor Swift",
+            "Music Path": "sad_taylorswift_backtodecember.mp3",
+            "Music Image": "taylorswift_backtodecember.png"
+        },
+        {
+            "Name": "Có Chàng Trai Viết Trên Cây",
+            "Singer": "Phan Mạnh Quỳnh",
+            "Music Path": "sad_phanmanhquynh_cochangtraiviettrencay.mp3",
+            "Music Image": "phanmanhquynh_cochangtraiviettrencay.png"
+        },
+        {
+            "Name": "Em Không Thuộc Về Nơi Đây",
+            "Singer": "Khánh Linh",
+            "Music Path": "sad_khanhlinh_emkhongthuocvenoiay.mp3",
+            "Music Image": "khanhlinh_emkhongthuocvenoiay.png"
+        },
+        {
+            "Name": "Đông Kiếm Em",
+            "Singer": "Vũ",
+            "Music Path": "sad_vu_ongkiemem.mp3",
+            "Music Image": "vu_ongkiemem.png"
+        },
+        {
+            "Name": "Nếu Ngày Ấy",
+            "Singer": "Soobin",
+            "Music Path": "sad_soobin_neungayay.mp3",
+            "Music Image": "soobin_neungayay.png"
+        },
+        {
+            "Name": "Mascara",
+            "Singer": "Chillies",
+            "Music Path": "sad_chillies_mascara.mp3",
+            "Music Image": "chillies_mascara.png"
+        },
+        {
+            "Name": "Có Hẹn Với Thanh Xuân",
+            "Singer": "Monster. Grey D",
+            "Music Path": "sad_monstergreyd_cohenvoithanhxuan.mp3",
+            "Music Image": "monstergreyd_cohenvoithanhxuan.png"
+        },
+        {
+            "Name": "Sài Gòn Hôm Nay Mưa",
+            "Singer": "Jsol",
+            "Music Path": "sad_jsol_saigonhomnaymua.mp3",
+            "Music Image": "jsol_saigonhomnaymua.png"
+        },
+        {
+            "Name": "Tháng Tư Là Lời Nói Dối Của Em",
+            "Singer": "Hà Anh Tuấn",
+            "Music Path": "sad_haanhtuan_thangtulaloinoidoicuaem.mp3",
+            "Music Image": "haanhtuan_thangtulaloinoidoicuaem.png"
+        },
+        {
+            "Name": "Hôm Nay Tôi Buồn",
+            "Singer": "Phùng Khánh Linh",
+            "Music Path": "sad_phungkhanhlinh_homnaytoibuon.mp3",
+            "Music Image": "phungkhanhlinh_homnaytoibuon.png"
+        },
+        {
+            "Name": "Chiều Hôm Ấy",
+            "Singer": "Jaykii",
+            "Music Path": "sad_jaykii_chieuhomay.mp3",
+            "Music Image": "jaykii_chieuhomay.png"
+        },
+        {
+            "Name": "Từ Đó",
+            "Singer": "Phan Mạnh Quỳnh",
+            "Music Path": "sad_phanmanhquynh_tudo.mp3",
+            "Music Image": "phanmanhquynh_tudo.png"
+        },
+        {
+            "Name": "Hẹn Một Mai",
+            "Singer": "Bùi Anh Tuấn",
+            "Music Path": "sad_buianhtuan_henmotmai.mp3",
+            "Music Image": "buianhtuan_henmotmai.png"
+        },
+        {
+            "Name": "Từng Là",
+            "Singer": "Vũ Cát Tường",
+            "Music Path": "sad_vucattuong_tungla.mp3",
+            "Music Image": "vucattuong_tungla.png"
+        },
+        {
+            "Name": "Breathe Me",
+            "Singer": "Sia",
+            "Music Path": "sad_sia_breatheme.mp3",
+            "Music Image": "sia_breatheme.png"
+        },
+        {
+            "Name": "Ocean Eyes",
+            "Singer": "Billie Eilish",
+            "Music Path": "sad_billieeilish_oceaneyes.mp3",
+            "Music Image": "billieeilish_oceaneyes.png"
+        },
+        {
+            "Name": "Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau",
+            "Singer": "Olew",
+            "Music Path": "sad_olew_roitasengamphaohoacungnhau.mp3",
+            "Music Image": "olew_roitasengamphaohoacungnhau.png"
+        },
+        {
+            "Name": "Có Lẽ Quá Khó Để Quên 1 Người",
+            "Singer": "D Blue",
+            "Music Path": "sad_dblue_colequakhoequen1nguoi.mp3",
+            "Music Image": "dblue_colequakhoequen1nguoi.png"
+        },
+        {
+            "Name": "Kim Phút, Kim Giờ",
+            "Singer": "Hurrykng,....",
+            "Music Path": "sad_hurrykng_kimphut,kimgio.mp3",
+            "Music Image": "hurrykng_kimphut,kimgio.png"
+        },
+        {
+            "Name": "Buồn Thì Cứ Khóc Đi",
+            "Singer": "Lynk Lee",
+            "Music Path": "sad_lynklee_buonthicukhoci.mp3",
+            "Music Image": "lynklee_buonthicukhoci.png"
+        },
+        {
+            "Name": "Thì Thôi",
+            "Singer": "Reddy",
+            "Music Path": "sad_reddy_thithoi.mp3",
+            "Music Image": "reddy_thithoi.png"
+        },
+        {
+            "Name": "Exit Sign",
+            "Singer": "Hieuthuhai, Marzuz",
+            "Music Path": "sad_hieuthuhai_exitsign.mp3",
+            "Music Image": "hieuthuhai_exitsign.png"
+        }
+    ]
+}

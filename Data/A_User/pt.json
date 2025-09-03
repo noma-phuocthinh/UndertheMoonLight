@@ -1,0 +1,490 @@
+[
+    {
+        "date": "2025-03-01 09:15:23",
+        "mood": "happy",
+        "event": [
+            "friend",
+            "shopping",
+            "movie",
+            "sunny",
+            "coffe",
+            "greatful",
+            "travel"
+        ],
+        "sleeping_time": "sixtoeight",
+        "note": "Ngày tuyệt vời đi chơi với nhóm bạn thân! Chúng tôi đã có buổi shopping thú vị, thử đủ loại trang phục mới và chụp hàng trăm bức ảnh. Chiều cùng xem bộ phim mới ra mắt rất hay, tiếng cười giòn tan. Kết thúc bằng ly cà phê thơm lừng và những câu chuyện không bao giờ cũ. Thật biết ơn vì có những người bạn tuyệt vời như thế!",
+        "image_added": [
+            "pt_1_01_03_2025.png",
+            "pt_2_01_03_2025.png",
+            "pt_3_01_03_2025.png"
+        ]
+    },
+    {
+        "date": "2025-03-02 22:45:12",
+        "mood": "angry",
+        "event": [
+            "work",
+            "coworker",
+            "comflic",
+            "hot",
+            "rainny",
+            "hospital",
+            "diff_people"
+        ],
+        "sleeping_time": "under_four",
+        "note": "Ngày tồi tệ nhất tháng! Đồng nghiệp đổ lỗi cho tôi về sai sót của họ trong dự án quan trọng. Trời nóng bức rồi đột ngột đổ mưa như trút nước. Phải đến bệnh viện thăm người nhà ốm trong tâm trạng bực bội. Về nhà còn phải giải quyết đống việc tồn đọng. Đêm trằn trọc không ngủ được vì quá tức giận!",
+        "image_added": [
+            "pt_1_02_03_2025.png",
+            "pt_2_02_03_2025.png",
+            "pt_3_02_03_2025.png"
+        ]
+    },
+    {
+        "date": "2025-03-03 07:30:45",
+        "mood": "depressed",
+        "event": [
+            "home",
+            "broken",
+            "rainny",
+            "diff_relationship",
+            "study",
+            "work",
+            "diff_weather"
+        ],
+        "sleeping_time": "overnight",
+        "note": "Cả ngày chẳng muốn làm gì, chỉ nằm dài nhìn mưa rơi ngoài cửa sổ. Những ký ức về mối tình tan vỡ cứ ám ảnh không dứt. Cố gắng học và làm việc nhưng không thể tập trung. Tối uống trà nóng nhưng vẫn cảm thấy lạnh lẽo trong lòng. Thức trắng đêm với nỗi buồn không tên. Chẳng biết khi nào mới thực sự vui trở lại.",
+        "image_added": [
+            "pt_1_03_03_2025.png",
+            "pt_2_03_03_2025.png",
+            "pt_3_03_03_2025.png"
+        ]
+    },
+    {
+        "date": "2025-03-04 13:20:30",
+        "mood": "normal",
+        "event": [
+            "work",
+            "clean",
+            "cloud",
+            "coffe",
+            "eating",
+            "study",
+            "skincare"
+        ],
+        "sleeping_time": "fourtosix",
+        "note": "Ngày làm việc bình thường không có gì nổi bật. Dọn dẹp nhà cửa và sắp xếp lại bàn làm việc cho gọn gàng. Uống 2 ly cà phê để giữ tinh thần tỉnh táo. Tối dành thời gian ôn bài và chăm sóc da. Mọi thứ đều diễn ra theo kế hoạch, không quá tốt cũng không quá tệ. Cuộc sống cứ thế trôi đi êm đềm.",
+        "image_added": [
+            "pt_1_04_03_2025.png",
+            "pt_2_04_03_2025.png",
+            "pt_3_04_03_2025.png"
+        ]
+    },
+    {
+        "date": "2025-03-05 10:10:15",
+        "mood": "sad",
+        "event": [
+            "hospital",
+            "diff_people",
+            "work",
+            "rainny",
+            "comflic",
+            "broken",
+            "study"
+        ],
+        "sleeping_time": "fourtosix",
+        "note": "Ngày u ám từ sáng đến tối. Phải vào viện thăm bà ngoại đang ốm nặng. Bệnh viện đông đúc, ồn ào và ngột ngạt. Trời mưa tầm tã khiến đường đi trơn trượt. Về đến công ty lại xảy ra mâu thuẫn với đồng nghiệp. Tối về cố học nhưng đầu óc nặng trĩu. Chỉ muốn ngày này kết thúc thật nhanh.",
+        "image_added": [
+            "pt_1_05_03_2025.png",
+            "pt_2_05_03_2025.png",
+            "pt_3_05_03_2025.png"
+        ]
+    },
+    {
+        "date": "2025-03-06 19:05:22",
+        "mood": "happy",
+        "event": [
+            "date",
+            "sunny",
+            "travel",
+            "ny",
+            "celebration",
+            "eating",
+            "movie"
+        ],
+        "sleeping_time": "sixtoeight",
+        "note": "Hẹn hò lãng mạn với người yêu tại thị trấn ven biển! Cùng nhau ngắm hoàng hôn tuyệt đẹp, thưởng thức bữa tối trong nhà hàng sang trọng và xem phim dưới bầu trời đầy sao. Anh ấy còn chuẩn bị cả món quà bất ngờ khiến tôi xúc động đến phát khóc. Thật hạnh phúc khi có người hiểu và yêu thương mình như vậy!",
+        "image_added": [
+            "pt_1_06_03_2025.png",
+            "pt_2_06_03_2025.png",
+            "pt_3_06_03_2025.png"
+        ]
+    },
+    {
+        "date": "2025-03-07 08:25:40",
+        "mood": "normal",
+        "event": [
+            "home",
+            "study",
+            "coffe",
+            "cool",
+            "eating",
+            "skincare",
+            "movie"
+        ],
+        "sleeping_time": "above_eight",
+        "note": "Ngày nghỉ ở nhà khá thoải mái. Sáng pha ly cà phê đậm đà, ngồi bên cửa sổ học bài trong tiết trời mát mẻ. Trưa nấu món ăn đơn giản nhưng ngon miệng. Tối xem bộ phim nhẹ nhàng và dưỡng da cẩn thận. Không có gì đặc biệt nhưng cảm giác bình yên và đủ đầy. Đôi khi cuộc sống chỉ cần đơn giản như vậy là hạnh phúc.",
+        "image_added": [
+            "pt_1_07_03_2025.png",
+            "pt_2_07_03_2025.png",
+            "pt_3_07_03_2025.png"
+        ]
+    },
+    {
+        "date": "2025-03-08 15:30:18",
+        "mood": "happy",
+        "event": [
+            "family",
+            "celebration",
+            "eating",
+            "sunny",
+            "shopping",
+            "travel",
+            "greatful"
+        ],
+        "sleeping_time": "sixtoeight",
+        "note": "Cả nhà sum họp mừng sinh nhật bố tại nhà hàng sang trọng. Bố mẹ rất vui khi nhận được món quà ý nghĩa từ các con. Chiều cùng nhau đi mua sắm và chụp thật nhiều ảnh gia đình dưới trời nắng đẹp. Nhìn nụ cười của bố mẹ, tôi thấy lòng ấm áp vô cùng. Những khoảnh khắc bên gia đình thật quý giá biết bao!",
+        "image_added": [
+            "pt_1_08_03_2025.png",
+            "pt_2_08_03_2025.png",
+            "pt_3_08_03_2025.png"
+        ]
+    },
+    {
+        "date": "2025-03-09 23:15:10",
+        "mood": "depressed",
+        "event": [
+            "home",
+            "broken",
+            "rainny",
+            "diff_relationship",
+            "study",
+            "work",
+            "diff_weather"
+        ],
+        "sleeping_time": "overnight",
+        "note": "Cả ngày chán nản không muốn làm gì. Mưa rào suốt ngày khiến tâm trạng càng thêm ủ dột. Những ký ức về mối tình tan vỡ cứ quay lại ám ảnh. Cố gắng học và làm việc nhưng đầu óc cứ mông lung. Đêm về nằm trằn trọc nhìn trần nhà, cảm giác cô đơn và trống rỗng vô cùng. Chẳng biết khi nào mới có thể thực sự vui trở lại.",
+        "image_added": [
+            "pt_1_09_03_2025.png",
+            "pt_2_09_03_2025.png",
+            "pt_3_09_03_2025.png"
+        ]
+    },
+    {
+        "date": "2025-03-10 11:45:33",
+        "mood": "angry",
+        "event": [
+            "work",
+            "comflic",
+            "hot",
+            "coworker",
+            "diff_people",
+            "rainny",
+            "hospital"
+        ],
+        "sleeping_time": "under_four",
+        "note": "Tôi cực kỳ tức giận khi sếp đổ lỗi cho cả team về sai sót mà chính sếp đã gây ra! Trời nóng như đổ lửa khiến tâm trạng càng thêm bực bội. Chiều phải đến bệnh viện thăm người nhà trong cơn mưa xối xả. Về nhà còn phải giải quyết đống việc tồn đọng. Đêm nằm trằn trọc không ngủ được vì quá bức xúc với sự bất công!",
+        "image_added": [
+            "pt_1_10_03_2025.png",
+            "pt_2_10_03_2025.png",
+            "pt_3_10_03_2025.png"
+        ]
+    },
+    {
+        "date": "2025-03-11 20:20:25",
+        "mood": "happy",
+        "event": [
+            "crush",
+            "movie",
+            "greatful",
+            "sunny",
+            "date",
+            "eating",
+            "friend"
+        ],
+        "sleeping_time": "sixtoeight",
+        "note": "Bất ngờ được crush rủ đi xem phim! Chúng tôi đã có buổi hẹn cực kỳ vui vẻ tại rạp chiếu phim mới. Sau đó cùng nhau đi dạo công viên và ăn tối tại nhà hàng nhỏ. Thời tiết nắng đẹp khiến mọi thứ càng thêm hoàn hảo. Cô ấy cười nhiều và nói rằng đã có khoảng thời gian tuyệt vời. Hy vọng đây là khởi đầu cho mối quan hệ mới!",
+        "image_added": [
+            "pt_1_11_03_2025.png",
+            "pt_2_11_03_2025.png",
+            "pt_3_11_03_2025.png"
+        ]
+    },
+    {
+        "date": "2025-03-12 09:10:42",
+        "mood": "normal",
+        "event": [
+            "work",
+            "clean",
+            "cloud",
+            "coffe",
+            "eating",
+            "study",
+            "skincare"
+        ],
+        "sleeping_time": "fourtosix",
+        "note": "Ngày làm việc bình thường không có gì đặc biệt. Dọn dẹp nhà cửa và sắp xếp lại bàn làm việc cho gọn gàng. Uống cà phê giữa giờ giúp tỉnh táo hơn. Tối dành thời gian ôn bài và chăm sóc da. Mọi thứ đều diễn ra theo kế hoạch, không quá tốt cũng không quá tệ. Cuộc sống đôi khi chỉ cần ổn định như vậy là đủ.",
+        "image_added": [
+            "pt_1_12_03_2025.png",
+            "pt_2_12_03_2025.png",
+            "pt_3_12_03_2025.png"
+        ]
+    },
+    {
+        "date": "2025-03-13 17:35:50",
+        "mood": "sad",
+        "event": [
+            "home",
+            "diff_weather",
+            "broken",
+            "study",
+            "work",
+            "hospital",
+            "comflic"
+        ],
+        "sleeping_time": "overnight",
+        "note": "Ngày buồn bã và mệt mỏi. Thời tiết thay đổi thất thường khiến đầu óc nặng trĩu. Những ký ức về mối quan hệ đổ vỡ cứ hiện về trong tâm trí. Cố gắng học và làm việc nhưng không thể tập trung. Đêm về nằm trằn trọc, cảm giác cô đơn và bế tắc vô cùng. Chẳng biết bao giờ mới vượt qua được giai đoạn khó khăn này.",
+        "image_added": [
+            "pt_1_13_03_2025.png",
+            "pt_2_13_03_2025.png",
+            "pt_3_13_03_2025.png"
+        ]
+    },
+    {
+        "date": "2025-03-14 12:25:15",
+        "mood": "happy",
+        "event": [
+            "shopping",
+            "skincare",
+            "sunny",
+            "friend",
+            "coffe",
+            "eating",
+            "movie"
+        ],
+        "sleeping_time": "sixtoeight",
+        "note": "Ngày nghỉ thư giãn cùng bạn thân. Đi mua sắm vài món đồ chăm sóc da cần thiết. Uống cà phê tại quán mới mở và trò chuyện về những dự định tương lai. Chiều xem bộ phim hài nhẹ nhàng. Thời tiết nắng đẹp khiến mọi thứ trở nên dễ chịu hơn. Một ngày bình thường nhưng đủ để nạp lại năng lượng cho tuần mới.",
+        "image_added": [
+            "pt_1_14_03_2025.png",
+            "pt_2_14_03_2025.png",
+            "pt_3_14_03_2025.png"
+        ]
+    },
+    {
+        "date": "2025-03-15 22:10:30",
+        "mood": "normal",
+        "event": [
+            "ny",
+            "date",
+            "celebration",
+            "sunny",
+            "eating",
+            "travel",
+            "movie"
+        ],
+        "sleeping_time": "above_eight",
+        "note": "Kỷ niệm 1 năm yêu nhau tại nhà hàng ven biển. Cùng nhau ngắm hoàng hôn lãng mạn, thưởng thức bữa tối thịnh soạn và đi dạo trên bãi cát trắng. Người yêu tặng chiếc nhẫn xinh xắn khiến tôi xúc động. Không khí ấm áp và hạnh phúc. Ngủ ngon sau một ngày tràn đầy yêu thương.",
+        "image_added": [
+            "pt_1_15_03_2025.png",
+            "pt_2_15_03_2025.png",
+            "pt_3_15_03_2025.png"
+        ]
+    },
+    {
+        "date": "2025-03-16 08:15:20",
+        "mood": "depressed",
+        "event": [
+            "work",
+            "rainny",
+            "diff_relationship",
+            "coworker",
+            "comflic",
+            "hot",
+            "hospital"
+        ],
+        "sleeping_time": "under_four",
+        "note": "Phải làm việc cuối tuần trong cơn mưa tầm tã. Đồng nghiệp cố tình gây khó dễ khiến công việc trì trệ. Trong lòng nặng trĩu nỗi buồn về mối quan hệ đổ vỡ. Tối về cố ngủ nhưng cứ trằn trọc mãi. Những suy nghĩ tiêu cực cứ ùa về khiến tôi cảm thấy bế tắc và mệt mỏi vô cùng. Chẳng biết bao giờ mới thoát khỏi tâm trạng này.",
+        "image_added": [
+            "pt_1_16_03_2025.png",
+            "pt_2_16_03_2025.png",
+            "pt_3_16_03_2025.png"
+        ]
+    },
+    {
+        "date": "2025-03-17 14:50:45",
+        "mood": "happy",
+        "event": [
+            "friend",
+            "travel",
+            "sunny",
+            "greatful",
+            "eating",
+            "movie",
+            "coffe"
+        ],
+        "sleeping_time": "sixtoeight",
+        "note": "Picnic vui vẻ với nhóm bạn thân tại công viên! Cùng nhau nướng BBQ, chơi thể thao và chụp thật nhiều ảnh đẹp. Trời nắng ấm, không khí trong lành khiến ai cũng phấn khởi. Chiều xem bộ phim hài nhẹ nhàng và uống cà phê thơm lừng. Những ngày như thế này khiến tôi nhận ra cuộc sống thật đáng quý biết bao!",
+        "image_added": [
+            "pt_1_17_03_2025.png",
+            "pt_2_17_03_2025.png",
+            "pt_3_17_03_2025.png"
+        ]
+    },
+    {
+        "date": "2025-03-18 21:05:45",
+        "mood": "angry",
+        "event": [
+            "work",
+            "coworker",
+            "comflic",
+            "hot",
+            "rainny",
+            "hospital",
+            "broken"
+        ],
+        "sleeping_time": "under_four",
+        "note": "Tôi vô cùng tức giận khi đồng nghiệp cố tình phá hoại thành quả làm việc của cả team! Trời nóng như thiêu đốt khiến tâm trạng càng thêm bực bội. Chiều phải đến bệnh viện thăm người nhà trong cơn mưa xối xả. Về nhà còn phải giải quyết đống việc tồn đọng. Đêm nằm trằn trọc không ngủ được vì quá bức xúc với sự ích kỷ của đồng nghiệp!",
+        "image_added": [
+            "pt_1_18_03_2025.png",
+            "pt_2_18_03_2025.png",
+            "pt_3_18_03_2025.png"
+        ]
+    },
+    {
+        "date": "2025-03-19 10:40:22",
+        "mood": "normal",
+        "event": [
+            "home",
+            "study",
+            "coffe",
+            "cool",
+            "eating",
+            "skincare",
+            "movie"
+        ],
+        "sleeping_time": "fourtosix",
+        "note": "Ngày ở nhà học tập khá hiệu quả. Uống cà phê và nghe nhạc nhẹ giúp tinh thần thoải mái hơn. Thời tiết âm u nhưng không ảnh hưởng nhiều đến công việc. Tối xem bộ phim tình cảm nhẹ nhàng và chăm sóc da cẩn thận. Mọi thứ đều diễn ra theo kế hoạch, không quá tốt cũng không quá tệ. Cuộc sống đôi khi chỉ cần bình yên như vậy là đủ.",
+        "image_added": [
+            "pt_1_19_03_2025.png",
+            "pt_2_19_03_2025.png",
+            "pt_3_19_03_2025.png"
+        ]
+    },
+    {
+        "date": "2025-03-20 18:30:15",
+        "mood": "sad",
+        "event": [
+            "home",
+            "diff_weather",
+            "broken",
+            "study",
+            "work",
+            "hospital",
+            "comflic"
+        ],
+        "sleeping_time": "overnight",
+        "note": "Ngày buồn bã và mệt mỏi. Thời tiết thay đổi thất thường khiến đầu óc nặng trĩu. Những ký ức về mối quan hệ đổ vỡ cứ hiện về trong tâm trí. Cố gắng học và làm việc nhưng không thể tập trung. Đêm về nằm trằn trọc, cảm giác cô đơn và bế tắc vô cùng. Chẳng biết bao giờ mới vượt qua được giai đoạn khó khăn này.",
+        "image_added": [
+            "pt_1_20_03_2025.png",
+            "pt_2_20_03_2025.png",
+            "pt_3_20_03_2025.png"
+        ]
+    },
+    {
+        "date": "2025-03-21 11:20:40",
+        "mood": "happy",
+        "event": [
+            "friend",
+            "greatful",
+            "eating",
+            "sunny",
+            "coffe",
+            "movie",
+            "shopping"
+        ],
+        "sleeping_time": "above_eight",
+        "note": "Bạn thân từ xa đến thăm đã mang lại cho tôi ngày vui bất ngờ! Cùng nhau đi mua sắm, thưởng thức món ăn ngon và xem bộ phim hay nhất năm. Trời nắng đẹp khiến mọi thứ càng thêm hoàn hảo. Những câu chuyện cười giòn tan và cái ôm ấm áp cuối ngày khiến tôi nhận ra mình may mắn biết bao khi có người bạn như thế!",
+        "image_added": [
+            "pt_1_21_03_2025.png",
+            "pt_2_21_03_2025.png",
+            "pt_3_21_03_2025.png"
+        ]
+    },
+    {
+        "date": "2025-03-22 16:15:30",
+        "mood": "normal",
+        "event": [
+            "work",
+            "clean",
+            "sunny",
+            "coffe",
+            "eating",
+            "study",
+            "skincare"
+        ],
+        "sleeping_time": "sixtoeight",
+        "note": "Ngày làm việc bình thường trở lại sau nhiều biến động. Dọn dẹp bàn làm việc và sắp xếp lại các công việc tồn đọng. Ánh nắng ban trưa xuyên qua cửa sổ mang lại chút năng lượng tích cực. Uống cà phê và nghe nhạc giúp tinh thần thoải mái hơn. Có lẽ mọi chuyện rồi cũng sẽ ổn thôi, chỉ cần thêm chút thời gian.",
+        "image_added": [
+            "pt_1_22_03_2025.png",
+            "pt_2_22_03_2025.png",
+            "pt_3_22_03_2025.png"
+        ]
+    },
+    {
+        "date": "2025-03-23 09:25:18",
+        "mood": "depressed",
+        "event": [
+            "home",
+            "rainny",
+            "diff_activity",
+            "broken",
+            "study",
+            "work",
+            "hospital"
+        ],
+        "sleeping_time": "fourtosix",
+        "note": "Ngày mưa buồn trong căn phòng trống vắng. Những ký ức cũ về mối tình tan vỡ cứ quay lại ám ảnh. Cố gắng học và làm việc nhưng đầu óc cứ mông lung. Tối uống trà nóng nhưng vẫn cảm thấy lạnh lẽo trong lòng. Thức khuya một mình với nỗi buồn không tên. Chẳng biết khi nào mới có thể thực sự vui trở lại.",
+        "image_added": [
+            "pt_1_23_03_2025.png",
+            "pt_2_23_03_2025.png",
+            "pt_3_23_03_2025.png"
+        ]
+    },
+    {
+        "date": "2025-03-24 14:40:22",
+        "mood": "happy",
+        "event": [
+            "family",
+            "celebration",
+            "eating",
+            "sunny",
+            "shopping",
+            "travel",
+            "greatful"
+        ],
+        "sleeping_time": "sixtoeight",
+        "note": "Cả nhà sum họp ăn mừng em bé mới chào đời! Cùng nhau đi mua quà và chụp thật nhiều ảnh kỷ niệm dưới trời nắng đẹp. Nhìn nụ cười hạnh phúc của mọi người, lòng tôi ấm áp vô cùng. Kết thúc ngày bằng bữa tối ấm cúng và những câu chuyện vui vẻ. Thật biết ơn vì có gia đình luôn bên cạnh những lúc như thế này!",
+        "image_added": [
+            "pt_1_24_03_2025.png",
+            "pt_2_24_03_2025.png",
+            "pt_3_24_03_2025.png"
+        ]
+    },
+    {
+        "date": "2025-03-25 08:36:36",
+        "mood": "angry",
+        "event": [],
+        "sleeping_time": "overnight",
+        "note": "",
+        "image_added": []
+    }
+]
